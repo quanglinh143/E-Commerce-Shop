@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div className="App">
-      Heloo
+     Hello from slack
     </div>
   )
 }
