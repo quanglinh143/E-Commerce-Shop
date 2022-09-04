@@ -1,7 +1,9 @@
+import TopBar from "./components/TopBar"
+import styles from './app.module.css'
 const App = () => {
   return (
-    <div className="App">
-     Hello from slack
+    <div>
+     <TopBar/>
     </div>
   )
 }
